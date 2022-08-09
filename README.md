@@ -12,6 +12,7 @@ However, `requirements.txt` is provided with full Python packages and versions f
 ├── READ.md
 ├── anomaly_data_service.py      # Postgres query methods for anomaly table 
 ├── connection_pool_singleton.py # Start here for Postgres database connection pooling methods
+├── examples.ipynb               # Usage examples for query methods
 └── requirements.txt 
 ```
 
