@@ -1,6 +1,16 @@
 # edge-services
 Open source generic services (e.g. data base connection) used for working with edge sensors
 
+## Team Members
+1. Christina Xu
+1. Hema Veeradhi
+
+## Meeting Information
+Meetings are held every Thursday, 9-10 MST
+
+Contact Christina Xu (chrxu@redhat.com) for questions/comments/contributions.
+
+
 ## Usage
 Typical usage is within a RHODS Standard Data Science Notebook image, with pip installs inside the notebook as needed. 
 
